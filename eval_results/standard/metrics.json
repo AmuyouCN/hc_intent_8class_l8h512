@@ -1,0 +1,14 @@
+{
+  "dataset": "standard",
+  "samples": 800,
+  "accuracy": 0.8775,
+  "macro_f1": 0.8769,
+  "macro_precision": 0.886,
+  "macro_recall": 0.8775,
+  "min_recall": 0.72,
+  "bottom3_avg": 0.7867,
+  "emergency_recall": 0.99,
+  "non_emerg_to_emerg_fp_rate": 0.0229,
+  "avg_confidence": 0.8169,
+  "device": "cpu"
+}

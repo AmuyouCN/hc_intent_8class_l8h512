@@ -1,0 +1,3 @@
+a1707e444e7ecc110ddac9d9372a986ffd220a4e419d6ec1a97d5a2bb2cefa77  model/model.pt
+397d296ab5644dc42c99504864db9072adebefbf62a0e0b132cf8c87616b182e  model/config.json
+9c1d23560d6ecdb2d56d1d01dce5009619d0ff8715daffb76f17b4e79ee324e2  model/label_map.json

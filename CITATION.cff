@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "hc_intent_8class_l8h512"
+message: "If you use this model, please cite it as below."
+type: software
+authors:
+  - family-names: "amuyoucn"
+date-released: 2026-06-16
+license: MIT
+repository-code: "https://github.com/amuyoucn/hc_intent_8class_l8h512"
+abstract: "A Chinese 8-class intent classification model for home care and health care service scenarios."

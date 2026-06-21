@@ -1,0 +1,2 @@
+dataset,samples,accuracy,macro_f1,macro_precision,macro_recall,min_recall,bottom3_avg,emergency_recall,non_emerg_to_emerg_fp_rate,avg_confidence,device
+standard,800,0.8775,0.8769,0.886,0.8775,0.72,0.7867,0.99,0.0229,0.8169,cpu
